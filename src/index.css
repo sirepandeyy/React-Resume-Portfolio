@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Railway',sans-serif;
+    -webkit-font-smoothing:'antialised';
+    -moz-osx-font-smoothing:'grayscale';
+}
